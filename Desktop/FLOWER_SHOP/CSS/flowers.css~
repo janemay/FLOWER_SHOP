@@ -1,0 +1,338 @@
+body {
+   background-image: url('../images/fp13.jpg'); 
+   color: #333; 
+   font-size: .85em;
+   margin: 20; 
+   padding: 20;
+   font-family: "Segoe UI", Verdana, Helvetica, Sans-
+   float: right;
+}
+.myFSclass {
+   background-color: white;
+   margin-top: -15px;
+   height: 500px;
+}
+.myTitle {
+   background-color: white;
+   height : 170px;
+}
+#titleImage {
+   width: 550px;
+   height: 150px;
+   margin-left: 150px;
+}
+#myFlower {
+   font-size: 35px;
+   text-align: center;
+   margin-top: -65px;
+}
+#title {
+   color: #6A5ACD;
+   text-decoration: none;
+   padding: 0px;
+}
+#myImage {
+   height: 150px;
+   width: 250px;
+   margin-top: 5px;
+}
+.FS2nd {
+   width: 470px;
+}
+#menus {
+   padding: 20px;    
+   text-decoration: none;
+   font-size: 12px;
+   color: white;
+   margin-top: 1000px;
+}
+#menus:hover {
+   color: red;
+}
+.myMenus {
+   width: 1356px;
+   height: 45px;
+   margin-left: 2px;
+}
+.menuFS {
+   background-color: #9370DB;
+   height: 15px;
+   margin-left: .1px;
+   width: 1332px;
+}
+#sizeFlower {
+   height: 100px;
+   width: 100px; 
+   float: right;
+   margin-top: -180px;
+   margin-right: 50px;
+}
+.imgFS {
+   width: 1300px;
+   height: 400px;
+}
+#wholeIMG {
+   height: 400px;
+   width: 425px;
+}
+#wholeIMG1 {
+   height: 400px;
+   width: 425px;
+   float: right;
+}
+#wholeIMG2 {
+   height: 400px;
+   width: 425px;
+   float: right;
+   margin-right: 13px;
+}
+.img {
+   width: 140px;
+   height: 140px;
+}
+.img1 {
+   width: 140px;
+   height: 140px;
+   margin-left: 210px;
+   margin-top: -155px
+}
+.img2 {
+   width: 140px;
+   height: 140px;
+   margin-left: 415px;
+   margin-top: -155px;
+}
+.img3 {
+   width: 140px;
+   height: 140px;
+   margin-left: 625px;
+   margin-top: -155px;
+}
+.img4 {
+   width: 140px;
+   height: 140px;
+   margin-left: 835px;
+   margin-top: -155px;
+}
+.img5 {
+   width: 140px;
+   height: 140px;
+   margin-left: 1045px;
+   margin-top: -155px;
+}
+.img6 {
+   width: 140px;
+   height: 140px;
+}
+.img7 {
+   width: 140px;
+   height: 140px;
+   margin-left: 210px;
+   margin-top: -155px;
+}
+.img8 {
+   width: 140px;
+   height: 140px;
+   margin-left: 415px;
+   margin-top: -155px;
+}
+.img9 {
+   width: 140px;
+   height: 140px;
+   margin-left: 625px;
+   margin-top: -155px;
+}
+.img10 {
+   width: 140px;
+   height: 140px;
+   margin-left: 835px;
+   margin-top: -155px;
+}
+.img11 {
+   width: 140px;
+   height: 140px;
+   margin-left: 1045px;
+   margin-top: -155px;
+}
+#collect {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect1 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect2 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect3 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect4 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect5 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect6 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect7 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect8 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect9 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect10 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+#collect11 {
+   width: 140px;
+   height: 140px;
+   cursor: pointer;
+}
+.aboutFS {
+   width: 600px;
+}
+#description {
+   margin-left: 50px;
+   color: #9932CC;
+}
+.FS2ndmine {
+   width: 500px;
+}
+#inputFS {
+   width: 200px;
+   background-color: #DDA0DD;
+}
+.my1st {
+   color: #FF1493;
+}
+.my2nd {
+   float: right;
+   margin-top: -300px;
+   color: #FF1493;
+}
+.FS2ndlog {
+   width: 470px;
+}
+.LOGdiv {
+   color: #FF1493; 
+}
+#myphp {
+	text-align: center;
+	border: solid 1px #DEDEDE;
+	background: #FEEFB3 url(icons/warning-icon.png) 8px 6px no-repeat;
+	color: #222222;
+	padding: 9px;
+	height: 20px;
+}
+#wrong {
+   margin-top: -0px;
+}
+#war {
+	float: left;
+	width: 30px;
+	height: 27px;
+}
+.myTable {
+   margin-left: 500px;
+   margin-top: -300px;
+   background-color: #D8BFD8;
+   display: none;
+}
+#DI {
+   height: 20px;
+   width: 20px;
+}
+#myGifimage {
+   float: right;
+   margin-top: -430px;
+   width: 400px;
+   height: 400px;
+   margin-right: 140px;
+}
+#imgHR {
+   width: 410px;
+   margin-left: 785px;
+}
+#other {
+   margin-left: 940px;
+   font-family: Ubuntu Mono;
+}
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9, #b10, #b11, #b12, #b13, #b14, #b15, #b16, #b17, #b18, #b19, #b20, #b21, #b22, #b23, #b24, #b25, #b26, #b27, #b28, #b29, #b30 {
+   width: 127.5px;
+   height: 130px;
+   cursor: pointer;
+}
+.myTags {
+   display: none;
+}
+#myStocks {
+   width: 200px;
+}
+.FS2ndmine {
+   width: 480px;
+}
+.secondClass {
+   float: right;
+   margin-top: -225px;
+}
+.myReceipt {
+   background-image: url('../images/r6.jpg');
+   width: 320px;
+   height: 300px;
+   margin-left: 530px;
+   margin-top: -370px;
+   border-radius: 5px;
+ 
+}
+#aboutme {
+   margin-left: 15px;
+   margin-top: 25px;
+}
+#aboutDiv {
+   margin-top: -5px;
+
+}
+#OR {
+   margin-left: 85px;
+   margin-top: -30px;
+   font-size: 23px;
+   color: #8B008B;
+}
+#myNameFancy {
+   font-family: URW Chancery L;
+   font-size: 30px;
+   margin-left: 230px;
+   margin-top: -30px;
+   color: #9932CC;
+}
+#okButton {
+   margin-left: 20px;
+   background-color: #FF99FF;
+}
+

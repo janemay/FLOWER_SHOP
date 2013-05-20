@@ -1,0 +1,18 @@
+<?php
+
+		include 'DAO/FlowerDAO.php';
+        session_start();
+   
+         $username = $_SESSION['username'];
+		   $type = $_POST['type'];
+		   $pieces = $_POST['pieces'];
+		   $price = $_POST['price'];
+		   $deliver = $_POST['deliver'];
+		   $date = $_POST['date'];
+
+
+
+		$action = new FlowerDAO();
+		$action->add($username, $type, $pieces, $price, $deliver, $date);
+
+?>

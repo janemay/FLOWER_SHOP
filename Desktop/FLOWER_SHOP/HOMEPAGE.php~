@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+<head>
+	<script src="flowerJS/jquery-1.8.2.min.js"></script>
+	<script src = "flowerJS/javascript.js"></script>
+	<link rel="stylesheet" href="stylesheet/flowers.css"/>
+	
+</head>
+
+<body>
+
+<fieldset><h3> HOMEPAGE</h3></fieldset>
+<fieldset id ="order"><h5>order</h5>
+<div id="or">
+	<table>
+	<tr>
+	<td>Firstname:</td>
+	<td><input type="text" name="FirstName"></td>
+	</tr>
+	<tr>
+	<td>LastName:</td>
+	<td><input type="text" name="LastName"></td>
+	</tr>
+	<tr>
+	<td>Type of Flower's:</td>
+	<td><input type="text" name="Type of flowers "></td>
+	</tr>
+	</table>
+	<input type="hidden" name="id"/>
+	<button id ="log">ok</button>
+</fieldset>
+<fieldset>
+<h4>Ordered List</h4>
+<table id ="ORDERD LIST" border="2">
+      <tr>
+      <td>FIRSTNAME</td>
+      <td>LASTNAME</td>
+      <td>TYPE OF FLOWERS</td>
+      <td>ACTION<td>
+      </tr>
+</table></div><!--or-->
+</fieldset>
+</div>
+</body>
+
+</html>
